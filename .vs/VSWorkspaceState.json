@@ -3,8 +3,11 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\images"
+    "\\images",
+    "\\images\\fulls",
+    "\\images\\Screenshots",
+    "\\images\\thumbs"
   ],
-  "SelectedNode": "\\images",
+  "SelectedNode": "\\images\\Screenshots\\Dissertation.PNG",
   "PreviewInSolutionExplorer": false
 }
